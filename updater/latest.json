@@ -1,23 +1,23 @@
 {
-  "version": "0.3.1",
-  "notes": "Transfer Data Trust v0.3.1\n<!-- minEngineVersion: 0.3.0 -->",
-  "pub_date": "2026-03-19T00:23:56Z",
+  "version": "0.3.2",
+  "notes": "Transfer Data Trust v0.3.2\n<!-- minEngineVersion: 0.3.0 -->",
+  "pub_date": "2026-03-19T07:11:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcWFWRVBvSFBCNnlkOWc5ZlpEdEtjL0s4bHdIV2FjYWxwTWtLV2VUcFNpbGhjd0ROUWlhOXRtZ0hyajh3d1pVVTZZZVkxL2ZyeXEwYkFlNFdnU3JUWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODc5MDM4CWZpbGU6dHJhbnNmZXItZGF0YS10cnVzdF9hYXJjaDY0LmFwcC50YXIuZ3oKM1FRT3ZiSEF6NlpuUTI1NnRWZ3NabGszdzBwb2YreUJlWjJoTnhwaVRuMFVZcGlrZERvd2F0RzJHZklmT0IyNVR0WU5nWGwvL3pzcTBOdzZ3WVNNQXc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcWRZdmdCSmVDTDlWMTFhcEh0azdxS0tURjdOckloSGpqWHhuaTNTWElSWXByTjlUcWlpSWU5RmIwbm1hUktDSGhCajh0RjFOdU1SRkxnR0UzTkRNNUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTAzNTA0CWZpbGU6dHJhbnNmZXItZGF0YS10cnVzdF9hYXJjaDY0LmFwcC50YXIuZ3oKYjhWWlZVY2pkY0MyWFJESm1oWVA1NWtHM05TQW1ZU2RhQy9vSGJxcmQ0d2pEQm9ZQTUycDJSLzdmRE8zUmtiRzlkenF1ZklXTWdUYXFlRWNyNnlqRFE9PQo=",
       "url": "https://transferarchive.github.io/archive-client-releases/updater/transfer-data-trust_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVllNVhFRVJwdkExSDdHSlAyc3R1Y01qd1NiT2VpUi9vb1FyVHo1TmdENGFick12NCt6WDVUeU9ORDJNSmVKUWV3bFczMFJLMnNxVDEwWEUrQys4V3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODc5Njc0CWZpbGU6dHJhbnNmZXItZGF0YS10cnVzdF94ODZfNjQuYXBwLnRhci5negoxdXJDNEJud1M2TlRxWCtvV1VYWndGVklTK1RPMW1TY2U5enRJVlE1dEJTSVVIK1cyejkreW56b3l6L2o4UUtPZ0NWMjVwSmhBTElGQ2phaTJubXhEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVdIZDdwSGo3ZC9uaGxBMTZrS0YxeE4wdkR3Q0NoUnp6am01anJHcXVWM0J0WXo3bHZmeGMxVE9Wdm43ejNmNDZNU1Y3RzJlU1lqM2llU3lDb1NXRkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTAzOTE0CWZpbGU6dHJhbnNmZXItZGF0YS10cnVzdF94ODZfNjQuYXBwLnRhci5negp4Rkc2MTQxWG41NVFMM3NtcDNQVEJPSjkvUlNTUEhFa1BGQmJGNC95a3hQNmMrN2lFSkRvZTdkU0xUQmYveTVTdVV5Q1VYREZzRms1U2xicGRDNGJDZz09Cg==",
       "url": "https://transferarchive.github.io/archive-client-releases/updater/transfer-data-trust_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVFvNkR5NjlXNjRCd2pSMXpWeHZTbjVGby9rSzM0aVVWaHoyVzNFR204QzdQSXY5UjVmekZCZkE0N1A0TE0vNTExdkQzeE5qVE8rZlRuQ0l0WE5ob0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODc5Nzk3CWZpbGU6VHJhbnNmZXIgRGF0YSBUcnVzdF8wLjMuMV94NjQtc2V0dXAuZXhlCmdzcjdhS0hHRHg1Mk9jU25pQXEzeHJtRjdKRTZ2ZXFHdEVBTjVZZlhWVDVIWFkrOUtLQlRIT0g3ejVJTm0xS3Y0aWVQUGZkNWRoeUYxNkRMTmFDekJBPT0K",
-      "url": "https://transferarchive.github.io/archive-client-releases/updater/transfer-data-trust_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVprSFRtN1lrVjcxTHFiVm10TVFmV3VFRzh1dm0rU2NQQm56QWxMSjJUM1QvWlFrb2ZzR1ZsbWNnd25TekJHQlRTaHNSOXhEai9aQjZZdmpjMHo3bVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTA0MjQzCWZpbGU6VHJhbnNmZXIgRGF0YSBUcnVzdF8wLjMuMl94NjQtc2V0dXAuZXhlCkQ1QkpNcExWTGpnTktiQWorMGo0aHNVek5xUnQ4bWhSWlluaFdjOTVYNWJZdzRnWGtzTlN0NnlTWXpIU3dVazRIQk5MK1BndzVxak5NZTFXLzVVMUNBPT0K",
+      "url": "https://transferarchive.github.io/archive-client-releases/updater/transfer-data-trust_0.3.2_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVNXKzdFeFByNXBLWTA0cG1wVmcxL0s4QlYzN3hDRHJvT25STDl1QUUrdWphemMzM2JsMDBLSFJ0eExQT2dVeDhaV25PaytTeE82Sk9hYWQxZng0RXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODc5MzcwCWZpbGU6VHJhbnNmZXIgRGF0YSBUcnVzdF8wLjMuMV9hbWQ2NC5BcHBJbWFnZQphM1IvSWdNaDN5ME9WajF4NklVWEZnZmE2bGt3RzBRdGFrbzExTTJuSEtMNnF6U1JLdXdmdS9OVU9pTjFpZ2w3bk9DN0M2UHdKYnN6Q0h4aGYzcGhCUT09Cg==",
-      "url": "https://transferarchive.github.io/archive-client-releases/updater/transfer-data-trust_0.3.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcWMyMDM3ZGJtN0Q4RkxpdlVHenFXRy9BeXdGTk9iUm5pc0l4Uk9FZWl6YXlSVW9hY1ZlYVBUVXA4T0pmTitjRUpVL3JNNGpZRGhXM0VGWnoySnJVU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTAzOTc1CWZpbGU6VHJhbnNmZXIgRGF0YSBUcnVzdF8wLjMuMl9hbWQ2NC5BcHBJbWFnZQp3VGM0VjhYbXZ1a1NjcU5icTllc2UySTQ1ZDFZYW5xc0l0NG41RzRhTGt1SUZmZ0xSWlRmUWZWYndmUytzTjB2dDE0N0pzeFIwRldLT3BhY1dBc1RDZz09Cg==",
+      "url": "https://transferarchive.github.io/archive-client-releases/updater/transfer-data-trust_0.3.2_amd64.AppImage"
     }
   }
 }
