@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
-  "version": "0.3.4",
-  "engineImage": "ghcr.io/transferarchive/archive-engine:0.3.4",
-  "sidecarImage": "ghcr.io/transferarchive/archive-engine-archivist-sidecar:0.3.4",
+  "version": "0.4.0",
+  "engineImage": "ghcr.io/transferarchive/archive-engine:0.4.0",
+  "sidecarImage": "ghcr.io/transferarchive/archive-engine-archivist-sidecar:0.4.0",
   "managedUpgradeEligible": true,
-  "minClientVersion": "0.3.5",
-  "publishedAt": "2026-04-02T00:03:10Z",
-  "releaseNotesUrl": "https://github.com/TRANSFERArchive/archive-engine/releases/tag/engine-v0.3.4"
+  "minClientVersion": "0.3.8",
+  "publishedAt": "2026-08-13T01:31:02Z",
+  "releaseNotesUrl": "https://github.com/TRANSFERArchive/archive-engine/releases/tag/engine-v0.4.0"
 }
