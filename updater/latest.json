@@ -1,23 +1,23 @@
 {
-  "version": "0.3.10",
-  "notes": "FORA Client v0.3.10\n<!-- minEngineVersion: 0.3.4 -->",
-  "pub_date": "2026-09-23T10:43:23Z",
+  "version": "0.3.11",
+  "notes": "FORA Client v0.3.11\n<!-- minEngineVersion: 0.3.4 -->",
+  "pub_date": "2026-09-25T07:20:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVhjMFd5bXB0bkVTeGZRdnBpZ0VLdEFxMlpNTnR1UVUwdUJjZ1VQeGEzY0h5eUFSQmRDWmoyY3NQYzN0NkpFM09YZXJLU3YrNUIzTWhlR28xbTBCbnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTU4NjYwCWZpbGU6Zm9yYS1jbGllbnRfYWFyY2g2NC5hcHAudGFyLmd6CkVWZExyL0Jucm9hQTAxM2V0QW1nUCtVVm5PY1ZTbzUrMjdWZWsyRzBlOEtZS2g3aFF4ekhrV2JvVHhCQlFyNWF6dTAyQjhaNFdTTUJqTTlVTzUzSkNBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcWNqZW51S0tVWVBEMHdoWUFEdGRhbXFTWUVjc1g5SFNiOXhEa3hoUUE3cHZ3eGFNQ0ZBQlgrSWIwQ1I5dVRxTTc2ZzYwSFIzMUFkd2JGVUJpWDg3NWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzE5Njg3CWZpbGU6Zm9yYS1jbGllbnRfYWFyY2g2NC5hcHAudGFyLmd6ClpDNHRMbzRDS3VYMTNIWk85aEk5TmtteFNMTllGOTdGOWdmQm9ma1hac3pnUFNKamJDblNNS3owMlpONjVVbjVGWlAyNFNPMFJ0ZmViU1lrV1J5K0J3PT0K",
       "url": "https://transferarchive.github.io/archive-client-releases/updater/fora-client_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVNkMVZqR2VENDNxTS8xYlg4azU5Q0ptSUN0ZWIwM2FaZVFvZm9yS3Y2bngrSjdDQXBKb2N5RDFOK3FsMHFIVFowdmFobE1rVFlnSGpXclNXU1BBa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTYwMTA2CWZpbGU6Zm9yYS1jbGllbnRfeDg2XzY0LmFwcC50YXIuZ3oKbVl4RmVuZUtCMVpMVlVZZW9LMGcvRHVEUWFDMnRlQmoyeHBhc2ZmdUUvdEgrWEhCQ2F3MHhGNG1NTUJYQTBIL1JvODI0aUp6eW1RRDBNWWJodWJ2Qmc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVFCNlprRTFHbGVlcVFOTU1tZElhYjZlQlUrYVZ3VUN2eHhQUUVTcXJYWnByYmRFcXY4Z2NKVk5HcEFTeGJNSlNCWmlYTFB0KzdINjJlOHY4S2ZwbndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIwMzY4CWZpbGU6Zm9yYS1jbGllbnRfeDg2XzY0LmFwcC50YXIuZ3oKY0RUbUg2cjhZaStXWUZQVURZM0R6blNwTmJIZjlNY29TTDN3aVJwd3BQNTVndGtPdi9ZSGhpejZ4RlI1WW12Q2h0dC9Ccjkvd3JEb0xxTGZwWjd2Q2c9PQo=",
       "url": "https://transferarchive.github.io/archive-client-releases/updater/fora-client_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVhjSURWQVJZVGdqQnNONmgxeGl6YmtKVlJjNzVvL05aSm9TMWdrcUJDc1JPVnhhb1d2d2JLa1pWOTlMbUlqNGxCV05GM2lXQ2pEQTAwRkhiOXRsRFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTU5Nzg0CWZpbGU6Rk9SQSBDbGllbnRfMC4zLjEwX3g2NC1zZXR1cC5leGUKZHZUT3BTdGVTQW01bXVXaXFxZFZrcGorUjV1dGt2TjZLWExlN1BpS3FETEMrUkNOR1JYcmtlZVRCWEVVQXJHS2dTcWliQ3pEVkhKejF0aENoMkxZQUE9PQo=",
-      "url": "https://transferarchive.github.io/archive-client-releases/updater/fora-client_0.3.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVJiQkpwN09IME9nRy9reEtlT1MrT0V2bFRjZDc5US9hWU1vQkptZ0VvcmVVaXhMODAzekJSZFFCZGwwbXdlUHByUVNOcHFXTVFzTkxaaVVpbUNvZVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIwODA5CWZpbGU6Rk9SQSBDbGllbnRfMC4zLjExX3g2NC1zZXR1cC5leGUKYXdSUEpMbEFSSGNCU2NTTUZxc2s0TndnblpxTVhMeHNONGZNM0lVeUwwN0laUjd0Nm5MRXhENzRtdEdsTk5vYWZUaVJXYVowOUFqOEVGKzJ5THRrQWc9PQo=",
+      "url": "https://transferarchive.github.io/archive-client-releases/updater/fora-client_0.3.11_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVlmYWpEOHNtV0I1dG1FbEFmd1NSMlluZCtTUjVUa3NNVVRkbnpnYlc0bVhJYnZTOXVybFAwTnlpZURsSmFTWWJ1SE5BVlMxTkdUZUNNOUVudW5ZUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTU5MjU2CWZpbGU6Rk9SQSBDbGllbnRfMC4zLjEwX2FtZDY0LkFwcEltYWdlClQzM3VJNGI4U1prbHFJSWZJWXVDTFpDVTRvV0tEayswSW5jMVpFeUw0VnJpTEJ0SSt4UE0rYW5yTWU0bXRnRkZDK2pIa3c3Z3VuZkRjV21lWjcyNkRnPT0K",
-      "url": "https://transferarchive.github.io/archive-client-releases/updater/fora-client_0.3.10_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRUxOeWxOMzBkcVd2NFh6bSs3elpjZFQ3TVpOQ080NWUyeU9iNGhTeG1EeCt3cGJDYnFSL3UyaHQwZkhKK3plc2FHR3F4UTFIMllJZVBFRzZOcnlMSHdWQXA2Y3NJa3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIwNDIzCWZpbGU6Rk9SQSBDbGllbnRfMC4zLjExX2FtZDY0LkFwcEltYWdlCm5NT1NQMzIxNjh2MGhLQ0xIbVRaU1RhTDlMK2E0Q3dFVE9FVVVVbjQvWDlndkVQcnZSQWR2NFVYNVhldk1jblNKUk52RVpBOWhDZDFoV2lvdjM5TUN3PT0K",
+      "url": "https://transferarchive.github.io/archive-client-releases/updater/fora-client_0.3.11_amd64.AppImage"
     }
   }
 }
