@@ -5,6 +5,6 @@
   "sidecarImage": "ghcr.io/transferarchive/archive-engine-archivist-sidecar:0.7.0",
   "managedUpgradeEligible": true,
   "minClientVersion": "0.3.11",
-  "publishedAt": "2026-10-19T20:09:39Z",
+  "publishedAt": "2026-10-19T20:49:04Z",
   "releaseNotesUrl": "https://github.com/TRANSFERArchive/archive-engine/releases/tag/engine-v0.7.0"
 }
